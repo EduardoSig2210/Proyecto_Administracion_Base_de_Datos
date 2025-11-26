@@ -89,10 +89,10 @@ GO
 -- Insertar clases 
 INSERT INTO Clases (Nombre_Clase, Dia_Semana, Hora_Inicio, Cupo, Id_Entrenador) VALUES
 ('Yoga', 'Lunes', '07:00', 20, 3),
-('Calistenia', 'Martes', '18:00', 15, 2),
-('Zumba', 'Miercoles', '17:30', 25, 4),
-('Boxeo', 'Jueves', '18:30', 10, 5),
-('Pilates', 'Viernes', '17:00', 18, 1);
+('Calistenia', 'Martes', '18:00', 15, 1),
+('Zumba', 'Miercoles', '17:30', 25, 2),
+('Boxeo', 'Jueves', '18:30', 10, 4),
+('Pilates', 'Viernes', '17:00', 18, 5);
 GO
 
 -- Insertar socios 
